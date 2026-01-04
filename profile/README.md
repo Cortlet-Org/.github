@@ -5,7 +5,7 @@ From developer utilities to mobile apps, Cortlet creates tools that are simple, 
 What you're seeing right now, is the GitHub Organization.
 
 👉 **Official Website:** https://cortlet.com  
-👉 **GitHub Open-source:** https://github.com/Cortlet-Software  
+👉 **GitHub Open-source (Our repostiories for the products):** https://github.com/Cortlet-Software  
 
 ---
 
