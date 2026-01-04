@@ -56,7 +56,7 @@ Some Cortlet apps are NOT open-source, but still documented publicly:
 ### ⭐ Deconstruct (iOS)
 A productivity app that helps you break big problems into simple steps.
 
-🔗 Website: https://cortlet.com/deconstruct *(example link)*
+🔗 Website: https://cortlet.com/products
 
 ---
 
