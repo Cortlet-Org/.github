@@ -11,5 +11,7 @@ These are made with the Cortlet Philosiphy:
 - Problem-solving.
 Also known as the LSNP philosiphy, Cortlet delivers products designed for developers, and normal users.
 
+---
+
 These open-source products follow the <a href="https://www.cortlet.com/legal/code-of-conduct">Code of Conduct</a>.
 You may see some projects have no Code of Conduct, however, future projects may have this Code of Conduct.
