@@ -15,5 +15,5 @@ Also known as the LSNP philosiphy, Cortlet delivers products designed for develo
 
 ---
 
-These open-source products follow the <a href="https://www.cortlet.com/legal/code-of-conduct">Code of Conduct</a>.
+These open-source products follow the <a href="https://legal.cortlet.com/code-of-conduct">Code of Conduct</a>.
 You may see some projects have no Code of Conduct, however, future projects may have this Code of Conduct.
